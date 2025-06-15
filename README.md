@@ -50,6 +50,14 @@ The methodology integrates:
 | **IFNepitope Server**  | Identification of IFN-γ inducing peptides                        |
 | **PatchDock & IGemDocks** | Docking of epitope structures with human TLR4 receptor         |
 
+![UniProt](https://img.shields.io/badge/UniProt-ProteinDB-blue)
+![VaxiJen](https://img.shields.io/badge/VaxiJen-Antigenicity-critical)
+![VirulentPred](https://img.shields.io/badge/VirulentPred-Virulence-orange)
+![IEDB](https://img.shields.io/badge/IEDB-TCell%2FBCell-yellow)
+![IFNepitope](https://img.shields.io/badge/IFNepitope-IFNγ--Prediction-purple)
+![PatchDock](https://img.shields.io/badge/PatchDock-StructureDocking-green)
+![IGemDock](https://img.shields.io/badge/IGemDock-VirtualDocking-lightblue)
+
 ---
 
 ## 🔬 Key Findings
